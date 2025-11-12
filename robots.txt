@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lucamorlok.github.io/sitemap.xml
+Sitemap: https://lmorlok.github.io/sitemap.xml
